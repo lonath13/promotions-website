@@ -1,6 +1,6 @@
 # promotions-website
 cs10 assignment
 
-reminders 
+## reminders 
 
-to do list
+### to do list
