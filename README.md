@@ -6,7 +6,7 @@ cs10 assignment
 
 - [ ] this is a checx box
 - [x] this is a checked box
-- <del> [x] this i a checked box </del>
+- ## <del> [x] this i a checked box </del>
 ---
 
 ### to do list
