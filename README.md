@@ -14,6 +14,7 @@ cs10 assignment
 - [ ] to readme file creat about me page
 - [ ] add all text info about me
 - [ ] add the thing i will be promoting into title
+- [ ] learn how to make a rpg game in a .bat file
 - [ ] create a working rpg game in github
 - [ ] make a text adventure game on a .bat file
 - [ ] make a functional music player
