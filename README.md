@@ -22,3 +22,4 @@ cs10 assignment
 - [ ] make an auto play feture in music player
 - [ ] finish computer science
 ---
+https://www.youtube.com/watch?v=Hq_dxvtuMmI
